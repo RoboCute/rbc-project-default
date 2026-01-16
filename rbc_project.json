@@ -12,10 +12,10 @@
         "intermediate": ".rbc"
     },
     "config": {
-        "default_scene": "assets/scene/main.rbcscene",
-        "startup_graph": "assets/graphs/startup.rbcgraph",
+        "default_scene": "assets/test_scene.scene",
+        "startup_graph": "assets/startup.graph",
         "graphics_backend": "dx",
-        "resource_version": "1"
+        "resource_version": "1.0"
     },
     "metadata": {
         "tags": [
