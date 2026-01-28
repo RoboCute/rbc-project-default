@@ -1,0 +1,96 @@
+[
+    "oxGwx4euOkmkkI0OJjrbog",
+    {
+        "name": "cbox",
+        "components": [
+            {
+                "__typeid__": "P2kSrXHZKpyWNlEqrst9Kw"
+            },
+            {
+                "__typeid__": "vWQI0kFGFPoaOFAfLQf1/g",
+                "children": [],
+                "trs": [
+                    [
+                        -1.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0,
+                        -1.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        -1.0,
+                        2.0,
+                        1.0
+                    ]
+                ]
+            },
+            {
+                "__typeid__": "IoyVv8ubyy7nTxJn2dZ3KQ",
+                "mats": [
+                    "toc4Jpz4WUit/usO8Na10A",
+                    "toc4Jpz4WUit/usO8Na10A",
+                    "toc4Jpz4WUit/usO8Na10A",
+                    "Et78xZbEtEupSuD2dCwSKA",
+                    "ZtdFe6kZnU+yleH3KrPmng",
+                    "toc4Jpz4WUit/usO8Na10A",
+                    "toc4Jpz4WUit/usO8Na10A",
+                    "yTroPC6xkUuRYYDSjSLTDw"
+                ],
+                "mesh": "qVauD/pzjEyanmqGiP2PzQ"
+            }
+        ]
+    },
+    "9doXB1Ij70i0h+NxauBg+A",
+    {
+        "name": "bunny",
+        "components": [
+            {
+                "__typeid__": "vWQI0kFGFPoaOFAfLQf1/g",
+                "children": [],
+                "trs": [
+                    [
+                        10.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        10.0,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0,
+                        10.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        3.0,
+                        2.0,
+                        1.0
+                    ]
+                ]
+            },
+            {
+                "__typeid__": "IoyVv8ubyy7nTxJn2dZ3KQ",
+                "mats": [],
+                "mesh": "w828rVxchUa0IfCHhCJHuw"
+            }
+        ]
+    }
+]

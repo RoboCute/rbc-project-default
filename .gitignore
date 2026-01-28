@@ -1,0 +1,19 @@
+# RoboCute intermediate files
+.rbc/
+*.rbcb.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Large temporary files
+*.tmp
+*.cache
+uv.lock
+library/

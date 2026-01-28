@@ -1,0 +1,29 @@
+{
+    "name": "DefaultRobocuteProject",
+    "version": "0.1.0",
+    "rbc_version": "0.2.0",
+    "author": "sailing-innocent",
+    "description": "This it the default template file for Robocute Project",
+    "paths": {
+        "assets": "assets",
+        "docs": "docs",
+        "datasets": "datasets",
+        "pretrained": "pretrained",
+        "intermediate": ".rbc"
+    },
+    "config": {
+        "default_scene": "assets/test_scene.scene",
+        "startup_graph": "assets/startup.graph",
+        "graphics_backend": "dx",
+        "resource_version": "1.0"
+    },
+    "metadata": {
+        "tags": [
+            "aigc",
+            "robotics",
+            "simulation"
+        ],
+        "license": "Apache-2.0",
+        "repository": "https://github.com/RoboCute/rbc-project-default"
+    }
+}
